@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a photographry as well as men's hair salon website using React.js
-- 🌱 I’m currently learning React.js, Redux, Node.js, MongoDB, GraphQL and TypeScript 
-- 👯 I’m looking to collaborate on React.js projects that use REST APIs built with Node.js
-- 🤔 I’m looking for help with JavaScript and React.js
-- 💬 Ask me about how I can help you build websites or web apps
+- 🔭 I’m currently working on building a sotware development agency website using React.js
+- 🌱 I’m currently learning Full stack open 2020 https://fullstackopen.com/en 
+- 👯 I’m looking to collaborate on React projects
+- 🤔 I’m looking for an internship or job opportunity
+- 💬 Ask me about how I can help you build websites or desktop apps
 - 📫 How to reach me: yosephbet@gmail.com 
