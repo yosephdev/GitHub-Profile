@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on building an e-commerce homepage 
 - 🌱 I’m currently learning Full-stack open 2020 at https://fullstackopen.com/en
