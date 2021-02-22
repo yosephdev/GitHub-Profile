@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a Web Content Manager at www.babysme.com & www.menaratravel.com
+- 🔭 I’m currently working as a Web Content Manager at www.babysme.com. Run www.menaratravel.com
 - 🌱 I’m currently learning Python at Coursera and GraphQL at edX
 - 👯 I’m obsessed with solving complex problems using React, GraphQL, and Node by building web applications 
 - 🤔 I’m looking for a job opportunity (remote or onsite)
