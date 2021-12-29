@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a webmaster at www.yetnew.net, www.babysme.com and www.menaratravel.com
-- 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se/utbildningar/program/webbutvecklare-e-handel
-- 👯 I like to build web applications using Python, React, GraphQL, SQL and Node
-- 🤔 I’m looking for a job opportunity (remote or onsite)
+- 🔭 I’m currently working as a webmaster for www.yetnew.net and www.babysme.com 
+- 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se
+- 👯 I like to build websites and web applications using HTML, CSS, JavaScript, Python, React, MySQL and Node
+- 🤔 I’m looking for a job opportunity (remote or onsite), check out my portfolio at yoseph.dev
 - 💬 Ask me about how we can build websites or web applications together
-- 📫 How to reach me: yosephbet@hotmail.com or contact@yoseph.dev
+- 📫 How to reach me: yosephbet@hotmail.com 
