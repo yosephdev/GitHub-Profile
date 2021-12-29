@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as a webmaster for www.yetnew.net and www.babysme.com 
+- 🔭 I’m currently working as a webmaster for www.yetnew.net 
 - 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se
 - 👯 I like to build websites and web applications using HTML, CSS, JavaScript, Python, React, MySQL and Node
 - 🤔 I’m looking for a job opportunity (remote or onsite), check out my portfolio at yoseph.dev
