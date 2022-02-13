@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working as an independent contractor
 - 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se
 - 👯 I like to build websites and web applications using HTML, CSS, JavaScript, Python, React, MySQL and Node
 - 🤔 I’m looking for a job or an internship opportunity (remote or onsite).
