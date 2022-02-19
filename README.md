@@ -1,9 +1,9 @@
 ## Introduction
 
 - 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se
-- 🤔 I’m looking for a job or an internship opportunity (remote or onsite).
+- 🤔 I’m looking for a job opportunity (remote or onsite).
 - 🧑🏽 I speak English 🇺🇸, Amharic 🇪🇹, and Swedish 🇸🇪
-- 💬 Ask me about how I can build a website or a web application for you
+- 💬 Ask me about how we can build a website or a web application together
 - 📫 How to reach me: yosephbet@gmail.com
 
 ## Languages and Tools
