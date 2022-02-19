@@ -2,16 +2,11 @@
 
 - 🌱 I’m currently learning Webbutvecklare e-handel at Changemaker Educations AB https://cmeducations.se
 - 🤔 I’m looking for a job or an internship opportunity (remote or onsite).
-- 🧑🏽 Fun fact: I am trilingual - fluent in English 🇺🇸, Amharic 🇪🇹, and Swedish 🇸🇪
+- 🧑🏽 I'm fluent in English 🇺🇸, Amharic 🇪🇹, and Swedish 🇸🇪
 - 💬 Ask me about how I can build a website or a web application for you
 - 📫 How to reach me: yosephbet@gmail.com
 
-### Connect with me
-
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/isakbet/isakbet/master/linkedin.ico" />]( http://www.linkedin.com/in/yosephbet)
-<br />
-
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,6 +28,6 @@
 <br />
 <br />
 
-### Github Status
+## Github Status
 
 ![Yoseph's github stats](https://github-readme-stats.vercel.app/api?username=isakbet&show_icons=true&theme=radical)
