@@ -1,6 +1,6 @@
 ## Introduction
 
-- 🌱 I’m currently learning E-commerce web developer at Changemaker Educations AB https://cmeducations.se
+- 🌱 I’m currently learning E-commerce web development at Changemaker Educations AB https://cmeducations.se
 - 📫 How to reach me: yoseph.berhane@protonmail.com
 
 ## Languages and Tools
