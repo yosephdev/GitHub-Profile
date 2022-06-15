@@ -1,7 +1,6 @@
 ## Introduction
 
 - 🌱 I’m currently learning E-commerce web developer at Changemaker Educations AB https://cmeducations.se
-- 🤔 I’m looking for a new role as Junior Software Engineer or Junior Web Developer. 
 - 📫 How to reach me: yoseph.berhane@protonmail.com
 
 ## Languages and Tools
