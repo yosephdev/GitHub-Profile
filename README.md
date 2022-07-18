@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoseph Berhane ✋🏽
 
 ### Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 #### I am a frontend software engineer and development communicator. I like programming, writing and traveling.
 
