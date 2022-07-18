@@ -15,7 +15,8 @@
 - 📫 How to reach me: yosephbet@gmail.com;
 - 📝 [Resume](https://yoseph.dev).
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Languages and Tools
 
