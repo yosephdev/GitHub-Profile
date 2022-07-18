@@ -16,6 +16,11 @@
 - 📝 [Resume](https://yoseph.dev).
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### Languages and Tools
