@@ -1,9 +1,23 @@
-## Introduction
+### Hi there, I'm Yoseph Berhane ✋🏽
 
-- 🌱 I’m currently learning E-commerce web development at Changemaker Educations AB https://cmeducations.se
-- 📫 How to reach me: yoseph.berhane@protonmail.com
+### Glad to see you here! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-## Languages and Tools
+#### I am a frontend software engineer and development communicator. I like programming, writing and traveling.
+
+#### As a software engineer, I enjoy using my strong attention to detail and my burning desire for making things that can help someone. 
+
+### Talking about personal stuff
+
+- 🌱 I’m currently working on something cool;
+- 🚀 I’m currently learning E-commerce web development on [Changemaker Educations AB](https://cmeducations.se);
+- 💬 Ask me about anything, I'm happy to help;
+- 📫 How to reach me: yosephbet@gmail.com;
+- 📝 [Resume](https://yoseph.dev).
+
+
+
+### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,6 +38,6 @@
 <br />
 <br />
 
-## Github Status
+### My Github Stats
 
-![Yoseph's github stats](https://github-readme-stats.vercel.app/api?username=isakbet&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isakbet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
