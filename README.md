@@ -10,7 +10,7 @@
 ### Talking about personal stuff
 
 - 🌱 I’m currently working on something cool;
-- 🚀 I’m currently learning E-commerce web development on [Changemaker Educations AB](https://cmeducations.se);
+- 🚀 I’m currently learning e-commerce web development on [Changemaker Educations AB](https://cmeducations.se);
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: yosephbet@gmail.com;
 - 📝 [Resume](https://yoseph.dev).
