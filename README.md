@@ -1,4 +1,4 @@
-### Hi there, I'm Yoseph Berhane ✋🏽
+### Hi there, I'm Yoseph ✋🏽
 
 ### Glad to see you here! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
