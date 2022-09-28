@@ -3,9 +3,9 @@
 ### Glad to see you here! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
-#### I am a frontend software engineer and development communicator. I like programming, writing and traveling.
+#### I am a web developer and UI designer. I like programming, reading and walking.
 
-#### As a software engineer, I enjoy using my strong attention to detail and my burning desire for making things that can help someone. 
+#### As a web developer, I enjoy using my strong attention to detail and my burning desire for making things that can help someone. 
 
 ### Talking about personal stuff
 
