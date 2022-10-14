@@ -5,7 +5,7 @@
 
 #### I am a web developer and UI designer. I like programming, reading and walking.
 
-#### As a web developer, I enjoy using my strong attention to detail and my burning desire for making things that can help someone. 
+#### As a web developer, I enjoy using my strong attention to detail and my burning desire for developing websites or web applications that can help someone. 
 
 ### Talking about personal stuff
 
