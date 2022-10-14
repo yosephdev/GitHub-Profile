@@ -3,9 +3,9 @@
 ### Glad to see you here! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
-#### I am a web developer and UI designer. I like programming, reading and walking.
+#### I am a web developer. I like programming, reading and walking.
 
-#### As a web developer, I enjoy using my strong attention to detail and my burning desire for developing websites or web applications that can help someone. 
+#### As a web developer, I enjoy using my strong attention to detail and my burning desire for making things that can help people. 
 
 ### Talking about personal stuff
 
