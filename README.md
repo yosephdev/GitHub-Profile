@@ -13,7 +13,7 @@
 - 🚀 I’m currently learning e-commerce web development at [Changemaker Educations AB](https://cmeducations.se);
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: contact@yoseph.dev;
-- 📝 [Porfolio Website](https://yoseph.dev).
+- 📝 Check out my [Porfolio Website](https://yoseph.dev).
 
 ### Languages and Tools
 
