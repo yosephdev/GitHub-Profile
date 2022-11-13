@@ -9,7 +9,7 @@
 
 ### Talking about personal stuff
 
-- 🌱 I’m currently working on something cool;
+- 🌱 I’m currently working on a [Persnal Blog](https://yetnew.me);
 - 🚀 I’m currently learning e-commerce web development at [Changemaker Educations AB](https://cmeducations.se);
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: contact@yoseph.dev;
