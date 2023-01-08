@@ -3,13 +3,13 @@
 ### Glad to see you here! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
-#### I am a web developer. I like programming, reading and walking.
+#### I am a software developer with e-commerce specialization. I have a passion for creating user-friendly and powerful web applications.
 
-#### As a web developer, I enjoy using my strong attention to detail and my burning desire for making things that can help people. 
+#### As a software  developer, I have a keen eye for detail and an ability to think outside the box to come up with innovative solutions. 
 
 ### Talking about personal stuff
 
-- 🌱 I’m currently working on a personal blog [Jhey's Blog](https://yetnew.me);
+- 🌱 I’m currently working on something cool;
 - 🚀 I’m currently learning e-commerce web development at [Changemaker Educations AB](https://cmeducations.se);
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: contact@yoseph.dev;
