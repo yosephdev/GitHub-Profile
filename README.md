@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoseph ✋🏽
 
 ### Glad to see you here! 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+![Visitors](https://api.visitorbadge.io/api/combined?path=isakbet%2Fgithub-visitors-badge&label=Visitors%20&labelColor=%23f47373&countColor=%23263759)
 
 #### I am a software developer with e-commerce specialization. I have a passion for creating user-friendly and powerful web applications.
 
