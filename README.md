@@ -3,13 +3,13 @@
 ### Glad to see you here! 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=isakbet%2Fgithub-visitors-badge&label=Visitors%20&labelColor=%23f47373&countColor=%23263759)
 
-#### I am a software developer with e-commerce specialization. I have a passion for creating user-friendly and powerful web applications.
+#### I am a frontend developer with e-commerce specialization. I have a passion for creating user-friendly and powerful websites and web applications.
 
-#### As a software  developer, I have a keen eye for detail and an ability to think outside the box to come up with innovative solutions. 
+#### As a frontend developer, I have a keen eye for detail and an ability to think outside the box to come up with innovative solutions. 
 
 ### Talking about personal stuff
 
-- 🌱 I’m currently working as a Web Development Intern at [Studeravidare](https://studeravidare.se);
+- 🌱 I’m currently working as a Web Intern at [Redemption Song Foundation](https://redemptionsongfoundation.org);
 - 🚀 I’m currently learning e-commerce web development at [Changemaker Educations AB](https://cmeducations.se);
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 How to reach me: contact@yoseph.dev;
