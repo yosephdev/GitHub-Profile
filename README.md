@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm thrilled that you stopped by.
 
 ## Visitors
+![Visitors](https://api.visitorbadge.io/api/combined?path=isakbet%2Fgithub-visitors-badge&label=Visitors%20&labelColor=%23f47373&countColor=%23263759)
 
 I am a Web Developer specializing in e-commerce. My passion lies in crafting user-friendly, performant websites and web applications. I genuinely enjoy solving problems, and I believe in thinking innovatively to create effective solutions.
 
