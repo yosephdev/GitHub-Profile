@@ -1,21 +1,22 @@
-### Hi there, I'm Yoseph ✋🏽
+# Hi there, I'm Yoseph! 👋🏽
 
-### Glad to see you here! 
-![Visitors](https://api.visitorbadge.io/api/combined?path=isakbet%2Fgithub-visitors-badge&label=Visitors%20&labelColor=%23f47373&countColor=%23263759)
+Welcome to my GitHub profile! I'm thrilled that you stopped by.
 
-#### I am a frontend developer with e-commerce specialization. I have a passion for creating user-friendly and powerful websites and web applications.
+## Visitors
 
-#### As a frontend developer, I have a keen eye for detail and an ability to think outside the box to come up with innovative solutions. 
+I am a Web Developer specializing in e-commerce. My passion lies in crafting user-friendly, performant websites and web applications. I genuinely enjoy solving problems, and I believe in thinking innovatively to create effective solutions.
 
-### Talking about personal stuff
+## A Glimpse Into My Life
 
-- 🌱 I’m currently working as a Web Intern at [Redemption Song Foundation](https://redemptionsongfoundation.org);
-- 🚀 I’m currently learning e-commerce web development at [Changemaker Educations AB](https://cmeducations.se);
-- 💬 Ask me about coding, I'm happy to help;
-- 📫 How to reach me:contact@yoseph.dev;
-- 📝 Check out my [Porfolio Website](https://yoseph.dev).
+- 👨‍💻 I’m currently sharpening my skills as a Web Intern at the Redemption Song Foundation.
+- 🎓 I’m expanding my knowledge in e-commerce web development at Changemaker Educations AB.
+- 🙋‍♂️ Have a coding question? Feel free to ask; I'm always happy to help.
+- 📫 You can reach me at [contact@yoseph.dev](mailto:contact@yoseph.dev).
+- 🌐 Visit my [Portfolio Website](https://yoseph.dev) to see some of the projects I've worked on.
 
-### Languages and Tools
+## Languages and Tools
+
+Below are some of the languages and tools that I use in my projects:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,6 +36,11 @@
 <br />
 <br />
 
-### My Github Stats
+## My Github Stats
 
+I believe in contributing to the open-source community. Here are my GitHub stats:
+<br/>
+<br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosephdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+Again, thank you for visiting my GitHub profile. Enjoy exploring my repositories!
