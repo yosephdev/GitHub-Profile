@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm thrilled that you stopped by.
 
 I'm a Web Developer specializing in e-commerce. My passion lies in crafting user-friendly, performant websites and web applications. I genuinely enjoy solving problems, and I believe in thinking innovatively to create effective solutions.
 
-Currently, I'm working on a new e-commerce platform that uses React and GraphQL to provide a seamless user experience. I'm also learning about machine learning and artificial intelligence, and I'm excited to see how these technologies can be used to improve the e-commerce experience.
+Currently, I'm working on a new e-commerce platform that uses Next.js and GraphQL to provide a seamless user experience. I'm also learning about machine learning and artificial intelligence, and I'm excited to see how these technologies can be used to improve the e-commerce experience.
 
 ## Goals and Aspirations
 
