@@ -37,7 +37,7 @@ Below are some of the languages and tools that I use in my projects:
 
 ## My Github Stats
 
-I believe in contributing to the open-source community. Here are my GitHub stats:
+Here are my GitHub stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosephdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
