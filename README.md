@@ -9,7 +9,7 @@ I am a Web Developer specializing in e-commerce. My passion lies in crafting use
 
 ## A Glimpse Into My Life
 
-- 👨‍💻 I’m currently sharpening my skills as a Web Developer at [Yetnew Web Solutions](https://yetnew.me).
+- 👨‍💻 I’m currently sharpening my skills as a Web Developer.
 - 🎓 I’m expanding my knowledge in e-commerce web development and UI design.
 - 🙋‍♂️ Have a coding question? Feel free to ask; I'm always happy to help.
 - 📫 You can reach me at [contact@yoseph.dev](mailto:contact@yoseph.dev).
