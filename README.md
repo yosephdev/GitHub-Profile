@@ -49,6 +49,7 @@ I've worked on a variety of projects that I'm excited to share with you:
 - **[Alehen](https://alehen.com/)**: A car exporting company's website built with WordPress and Astra theme.
 - **[Movie Finder](https://movie-finder.yoseph.dev/)**: A React application for searching movies using an external API.
 - **[CurrencyXchange](https://currency-x-change.netlify.app/)**: A currency conversion web app with real-time financial data.
+- ...and many more at [my portfolio](https://yoseph.dev/#projects).
 
 ## My Github Stats
 
