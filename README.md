@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm thrilled that you stopped by.
 
 ## About Me
 
-I'm a Web Developer with a knack for creating e-commerce platforms. I take pride in developing user-friendly, high-performance websites and applications. I love tackling challenges with innovative solutions and am currently delving into the world of Next.js and GraphQL to enhance user experiences in e-commerce. Additionally, I'm exploring the exciting fields of machine learning and AI to see how they can revolutionize online shopping.
+I'm a Web Developer currently enhancing my skills through the Diploma in Full Stack Software Development at the Code Institute. I am deepening my expertise in HTML, CSS, JavaScript and Python. This rigorous program, created with input from tech industry experts, is sharpening my ability to develop end-to-end solutions for complex web applications.
 
 ## Goals and Aspirations
 
