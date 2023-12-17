@@ -12,26 +12,15 @@ I'm a Web Developer currently enhancing my skills through the Diploma in Full St
 
 ## Goals and Aspirations
 
-Aspiring to be a full-stack developer, I aim to craft cutting-edge e-commerce solutions. I'm also keen on contributing to open source projects and expanding my involvement in the open source community.
+Aspiring to be a full-stack developer, I aim to create impactful digital experiences that resonate with users and drive business success.
 
 ## Languages and Tools
 
 Here's a toolkit I wield to bring my projects to life:
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* GraphQL
-* Node.js
-* SQL
-* MySQL
-* MongoDB
-* Python
-* Git
-* GitHub
-* Terminal
-* Visual Studio Code
+- Front-end: HTML5, CSS3, JavaScript, React
+- Back-end: Node.js, SQL, MySQL, MongoDB
+- Other Tools: GraphQL, Python, Git, GitHub, Terminal, Visual Studio Code
 
 ## Selected Projects
 
@@ -57,8 +46,8 @@ I've worked on a variety of projects that I'm excited to share with you:
 
 ## Call to Action
 
-I'm on the lookout for new learning opportunities and collaborations. If you're interested in working together or have a project in mind, don't hesitate to get in touch!
+Are you looking for a dynamic and creative web developer? I am open to new opportunities and collaborations. Whether it's a project you have in mind or you're interested in working together, feel free to reach out!
 
-📧 Reach me at: [contact@yoseph.dev](mailto:contact@yoseph.dev)
+📧 Contact me at: contact@yoseph.dev
 
 Thank you for visiting my GitHub profile!
