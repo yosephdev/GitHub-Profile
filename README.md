@@ -35,7 +35,6 @@ I've worked on a variety of projects that I'm excited to share with you:
 - **[Jewel Perfumes](https://jewelperfumes.com/)**: E-commerce site setup from domain to design and integration.
 - **[Cascadia Transportation](https://cascadiantransport.com/)**: A ReactJS site with Framer Motion animations for a transportation service.
 - **[Baby's & Me](https://babysme.com/)**: WordPress e-store development for easy product and payment management.
-- **[Alehen](https://alehen.com/)**: A car exporting company's website built with WordPress and Astra theme.
 - **[Movie Finder](https://movie-finder.yoseph.dev/)**: A React application for searching movies using an external API.
 - **[CurrencyXchange](https://currency-x-change.netlify.app/)**: A currency conversion web app with real-time financial data.
 - ...and many more at [my portfolio](https://yoseph.dev/portfolio.html). 
