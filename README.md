@@ -22,23 +22,6 @@ Here's a toolkit I wield to bring my projects to life:
 - Back-end: Node.js, SQL, MySQL, MongoDB
 - Other Tools: GraphQL, Python, Git, GitHub, Terminal, Visual Studio Code
 
-## Selected Projects
-
-I've worked on a variety of projects that I'm excited to share with you:
-
-- **[YouTube Income Calculator](https://youtube-income-calculator.yoseph.dev/)**: A tool for content creators to estimate potential earnings from YouTube channels.
-- **[Selam's Handmade](https://selamshandmade.com)**: Transitioned a site to WordPress, integrating Etsy for a seamless shopping experience.
-- **[GlobeTrotter](https://yoseph.dev/globetrotter/)**: A travel planning tool with currency converter, weather finder, and airport locator.
-- **[BMI Calculator](https://bmi-calculator.yoseph.dev/)**: A web app for calculating BMI using user inputs.
-- **[Cascadia Transportation](https://cascadiatransports.com/)**: Developed a website for a Seattle-based limousine service.
-- **[Cook Me Recipe App](https://cookme.yoseph.dev)**: A recipe finder for various cuisines and dietary needs.
-- **[Jewel Perfumes](https://jewelperfumes.com/)**: E-commerce site setup from domain to design and integration.
-- **[Cascadia Transportation](https://cascadiantransport.com/)**: A ReactJS site with Framer Motion animations for a transportation service.
-- **[Baby's & Me](https://babysme.com/)**: WordPress e-store development for easy product and payment management.
-- **[Movie Finder](https://movie-finder.yoseph.dev/)**: A React application for searching movies using an external API.
-- **[CurrencyXchange](https://currency-x-change.netlify.app/)**: A currency conversion web app with real-time financial data.
-- ...and many more at [my portfolio](https://yoseph.dev/portfolio.html). 
-
 ## My Github Stats
 
 ![Yoseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosephdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
