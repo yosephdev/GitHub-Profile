@@ -1,6 +1,6 @@
-# Hi there, I'm Yoseph! 👋
+# Hi there, I'm Yoseph! 👋 👩🏾‍💻
 
-![Banner Image](banner_image_url)
+![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/master/banner.png)
 
 ## About Me 🚀
 
