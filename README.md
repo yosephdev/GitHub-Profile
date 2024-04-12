@@ -1,4 +1,4 @@
-# Hi there, I'm Yoseph! 👋 👩🏾‍💻
+# Hi there, I'm Yoseph! 👋 👨🏾‍💻
 
 ![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/master/banner.png)
 
