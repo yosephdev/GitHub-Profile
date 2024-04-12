@@ -7,7 +7,7 @@
 I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Python and Django**
-- 🔭 Working on: **My personal portfolio website**
+- 🔭 Working on: **Jest Simon Game**
 - 🌍 Languages: **JavaScript, Python, PHP, English, Swedish and Amharic**
 - 📫 How to reach me: **contact@yoseph.dev**
 - ⚡ Fun fact: **I love hiking and photography!**
