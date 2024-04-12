@@ -30,7 +30,7 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ### Simon Game
 
-![Simon Game Screenshot](project_1_screenshot_url)
+![Simon Game Screenshot](https://github.com/yosephdev/Simon-Memory-Game/blob/master/simon-game-screenshot.png)
 
 **Simon Game** is a **memory game built with HTML, CSS, and JavaScript**. This project demonstrates my ability to **create interactive web applications**. You can check out the repository here.
 
