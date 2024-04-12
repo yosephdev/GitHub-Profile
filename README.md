@@ -36,7 +36,7 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ### Task Master
 
-![Task Master Screenshot](project_1_screenshot_url)
+![Task Master Screenshot](https://raw.githubusercontent.com/yosephdev/TaskMaster/main/docs/responsive-mockup.png)
 
 **Task Master** is a **command-line interface built with Python**. This project showcases my skills in **building interactive and user-friendly command-line applications**. You can check out the repository here. 
 
