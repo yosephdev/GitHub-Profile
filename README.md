@@ -7,7 +7,7 @@
 I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Python and Django**
-- 🔭 Working on: **Jest Simon Game**
+- 🔭 Working on: **Database Management Systems**
 - 🌍 Languages: **JavaScript, Python, PHP, English, Swedish and Amharic**
 - 📫 How to reach me: **contact@yoseph.dev**
 - ⚡ Fun fact: **I love hiking and photography!**
@@ -28,17 +28,23 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ## Featured Projects 💻
 
+### The Hobbit Fan Page
+
+![The Hobbit Fan Page](https://raw.githubusercontent.com/yosephdev/the-hobbit-fan-page/main/static/img/mockup.png)
+
+**The Hobbit Fan Page** is a website dedicated to fans of "The Hobbit" movie series. This project showcases my passion for **web development** and **fantasy literature**. You can explore the website [here](https://the-hobbit-fan-page-3f0698293642.herokuapp.com/).
+
 ### Simon Game
 
 ![Simon Game Screenshot](https://github.com/yosephdev/Simon-Memory-Game/blob/master/simon-game-screenshot.png)
 
-**Simon Game** is a **memory game built with HTML, CSS, and JavaScript**. This project demonstrates my ability to **create interactive web applications**. You can check out the repository here.
+**Simon Game** is a **memory game built with HTML, CSS, and JavaScript**. This project demonstrates my ability to **create interactive web applications**. You can check out the repository [here](https://github.com/yosephdev/Simon-Memory-Game).
 
 ### Task Master
 
 ![Task Master Screenshot](https://raw.githubusercontent.com/yosephdev/TaskMaster/main/docs/responsive-mockup.png)
 
-**Task Master** is a **command-line interface built with Python**. This project showcases my skills in **building interactive and user-friendly command-line applications**. You can check out the repository here. 
+**Task Master** is a **command-line interface built with Python**. This project showcases my skills in **building interactive and user-friendly command-line applications**. You can check out the repository [here](https://github.com/yosephdev/TaskMaster).
 
 ## Get in Touch 📬
 
