@@ -28,23 +28,24 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ## Featured Projects 💻
 
-### The Hobbit Fan Page
+### Book Dine
 
-![The Hobbit Fan Page](https://raw.githubusercontent.com/yosephdev/the-hobbit-fan-page/main/static/img/mockup.png)
+![Book Dine Screenshot](https://raw.githubusercontent.com/yosephdev/book-dine/main/static/img/mockup.png)
 
-**The Hobbit Fan Page** is a website dedicated to fans of "The Hobbit" movie series. This project showcases my passion for **web development** and **fantasy literature**. You can explore the website [here](https://the-hobbit-fan-page-3f0698293642.herokuapp.com/).
+**Book Dine** is a full-stack restaurant booking system. This project showcases my skills in both frontend and backend development, particularly in JavaScript. Explore the project [here](https://github.com/yosephdev/book-dine).
 
-### Simon Game
+### Mastery Hub
 
-![Simon Game Screenshot](https://github.com/yosephdev/Simon-Memory-Game/blob/master/simon-game-screenshot.png)
+![Mastery Hub Screenshot](https://raw.githubusercontent.com/yosephdev/mastery-hub/main/static/img/mockup.png)
 
-**Simon Game** is a **memory game built with HTML, CSS, and JavaScript**. This project demonstrates my ability to **create interactive web applications**. You can check out the repository [here](https://github.com/yosephdev/Simon-Memory-Game).
+**Mastery Hub** is a platform connecting professionals for skill-sharing and mentorship. This project demonstrates my expertise in frontend development, user interaction, and UI/UX design. Check out the project [here](https://github.com/yosephdev/mastery-hub).
 
-### Task Master
+### Currency Converter App
 
-![Task Master Screenshot](https://raw.githubusercontent.com/yosephdev/TaskMaster/main/docs/responsive-mockup.png)
+![Currency Converter Screenshot](https://raw.githubusercontent.com/yosephdev/currency-converter-app/main/static/img/mockup.png)
 
-**Task Master** is a **command-line interface built with Python**. This project showcases my skills in **building interactive and user-friendly command-line applications**. You can check out the repository [here](https://github.com/yosephdev/TaskMaster).
+**Currency Converter App** is a React-based application for converting currencies using real-time exchange rates. This project highlights my ability to work with React and real-time data APIs. Explore the project [here](https://github.com/yosephdev/currency-converter-app).
+
 
 ## Get in Touch 📬
 
