@@ -42,7 +42,7 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ### Currency Converter App
 
-![Currency Converter Screenshot](https://github.com/yosephdev/currency-converter-app/raw/main/preview.png)
+![Currency Converter Screenshot](https://github.com/yosephdev/currency-converter-app/raw/main/image-mockup.png)
 
 **Currency Converter App** is a React-based application for converting currencies using real-time exchange rates. This project highlights my ability to work with React and real-time data APIs. Explore the project [here](https://github.com/yosephdev/currency-converter-app).
 
