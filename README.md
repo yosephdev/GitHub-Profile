@@ -30,19 +30,19 @@ I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, a
 
 ### Book Dine
 
-![Book Dine Screenshot](https://raw.githubusercontent.com/yosephdev/book-dine/main/static/img/mockup.png)
+![Book Dine Screenshot](https://github.com/yosephdev/book-dine/blob/main/docs/readme_images/image-mockup.png) 
 
 **Book Dine** is a full-stack restaurant booking system. This project showcases my skills in both frontend and backend development, particularly in JavaScript. Explore the project [here](https://github.com/yosephdev/book-dine).
 
 ### Mastery Hub
 
-![Mastery Hub Screenshot](https://raw.githubusercontent.com/yosephdev/mastery-hub/main/static/img/mockup.png)
+![Mastery Hub Screenshot](https://github.com/yosephdev/mastery-hub/blob/main/docs/readme_images/Macbook.png?raw=true)
 
 **Mastery Hub** is a platform connecting professionals for skill-sharing and mentorship. This project demonstrates my expertise in frontend development, user interaction, and UI/UX design. Check out the project [here](https://github.com/yosephdev/mastery-hub).
 
 ### Currency Converter App
 
-![Currency Converter Screenshot](https://raw.githubusercontent.com/yosephdev/currency-converter-app/main/static/img/mockup.png)
+![Currency Converter Screenshot](https://github.com/yosephdev/currency-converter-app/raw/main/preview.png)
 
 **Currency Converter App** is a React-based application for converting currencies using real-time exchange rates. This project highlights my ability to work with React and real-time data APIs. Explore the project [here](https://github.com/yosephdev/currency-converter-app).
 
