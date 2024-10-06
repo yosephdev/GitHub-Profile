@@ -8,7 +8,7 @@ I'm a **Full Stack Web Developer** passionate about **e-commerce and digital sol
 
 - 🌱 Currently learning: **Python, Django, and PostgreSQL**
 - 🔭 Working on: **Building modern eCommerce platforms with Python and Django.**
-- 🌍 Languages: **HTML, CSS, JavaScript, React, PHP, Python, Django, MySQL, PostgreSQL, WordPress, Digital Marketing, SEO**
+- 🌍 Languages & Technologies: **HTML, CSS, JavaScript, React, PHP, Python, Django, MySQL, PostgreSQL, WordPress**
 - 📫 How to reach me: **contact@yoseph.dev**
 - ⚡ Fun fact: **I love hiking and photography!**
 
