@@ -4,11 +4,11 @@
 
 ## About Me 🚀
 
-I'm a **Full Stack Web Developer** passionate about **e-commerce and digital solutions**. I specialize in building secure, scalable, and user-friendly online stores using modern web technologies. 
+I'm a **Full Stack Web Developer** passionate about **e-commerce and digital solutions**. I specialize in eCommerce web development, digital marketing, and SEO, using modern development techniques across multiple platforms. 
 
-- 🌱 Currently learning: **Python and Django**
-- 🔭 Working on: **Database Management Systems**
-- 🌍 Languages: **JavaScript, Python, PHP, English, Swedish and Amharic**
+- 🌱 Currently learning: **Python, Django, and PostgreSQL**
+- 🔭 Working on: **Building modern eCommerce platforms with Python and Django.**
+- 🌍 Languages: **HTML, CSS, JavaScript, React, PHP, Python, Django, MySQL, PostgreSQL, WordPress, Digital Marketing, SEO**
 - 📫 How to reach me: **contact@yoseph.dev**
 - ⚡ Fun fact: **I love hiking and photography!**
 
