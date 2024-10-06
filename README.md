@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Web Developer** with experience in **HTML, CSS, JavaScript, and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a **Full Stack Web Developer** passionate about **e-commerce and digital solutions**. I specialize in building secure, scalable, and user-friendly online stores using modern web technologies. 
 
 - 🌱 Currently learning: **Python and Django**
 - 🔭 Working on: **Database Management Systems**
