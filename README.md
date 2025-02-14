@@ -36,7 +36,7 @@ I'm a **Full Stack Web Developer** passionate about **e-commerce and digital sol
 
 ### Mastery Hub
 
-![Mastery Hub Screenshot](https://github.com/yosephdev/mastery-hub/blob/main/docs/readme_images/Macbook.png?raw=true)
+![Mastery Hub Screenshot](https://github.com/yosephdev/mastery-hub/blob/main/docs/readme_images/responsive-preview.png?raw=true)
 
 **Mastery Hub** is a platform connecting professionals for skill-sharing and mentorship. This project demonstrates my expertise in frontend development, user interaction, and UI/UX design. Check out the project [here](https://github.com/yosephdev/mastery-hub).
 
