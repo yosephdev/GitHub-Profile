@@ -79,14 +79,6 @@ I'm a **Full Stack Web Developer** passionate about crafting **eCommerce platfor
 
 ---
 
-### 💱 Currency Converter App  
-![Currency Converter Screenshot](https://github.com/yosephdev/currency-converter-app/raw/main/image-mockup.png)  
-A real-time currency conversion tool built in React using third-party APIs.  
-💸 *Lightweight and intuitive tool for quick global currency conversions.*  
-[Check it out →](https://github.com/yosephdev/currency-converter-app)
-
----
-
 ## Get in Touch 📬  
 - 🌐 [**Website**](https://yoseph.dev)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/yoseph-berhane)  
