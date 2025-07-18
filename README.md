@@ -1,5 +1,5 @@
 # Hi there, I'm Yoseph! 👋🏾 👨🏾‍💻  
-![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/master/banner.png)
+![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/main/banner.png)
 
 ## About Me 🚀
 
